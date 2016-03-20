@@ -18,5 +18,8 @@
   "homepage": "https://github.com/schuylermk/JS-Week-1-node_review_2#readme",
   "dependencies": {
     "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0"
   }
 }
