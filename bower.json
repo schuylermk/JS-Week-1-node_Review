@@ -1,0 +1,21 @@
+{
+  "name": "node2",
+  "description": "javascript week one code review",
+  "main": "index.js",
+  "authors": [
+    "schuyler klaassen"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/schuylermk/JS-Week-1-node_review_2",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
