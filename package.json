@@ -1,0 +1,22 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "javascript week one code review",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schuylermk/JS-Week-1-node_review_2.git"
+  },
+  "author": "schuyler klaassen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schuylermk/JS-Week-1-node_review_2/issues"
+  },
+  "homepage": "https://github.com/schuylermk/JS-Week-1-node_review_2#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
