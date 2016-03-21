@@ -1,4 +1,4 @@
-{
+  {
   "name": "node2",
   "version": "1.0.0",
   "description": "javascript week one code review",
@@ -17,21 +17,22 @@
   },
   "homepage": "https://github.com/schuylermk/JS-Week-1-node_review_2#readme",
   "dependencies": {
-    "bower-files": "^3.11.3",
-    "gulp-concat": "^2.6.0",
-    "gulp-sass": "^2.2.0",
-    "gulp-sourcemaps": "^1.6.0",
-    "gulp-util": "^3.0.7",
-    "prompt": "^1.0.0"
   },
   "devDependencies": {
-    "bower": "^1.7.7",
+    "bower-files": "^3.11.3",
     "browser-sync": "^2.11.1",
     "browserify": "^13.0.0",
     "del": "^2.2.0",
+    "fs": "0.0.2",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
+    "gulp-git": "^1.7.0",
+    "gulp-gitignore": "^0.1.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
     "jshint": "^2.9.1",
     "vinyl-source-stream": "^1.1.0"
   }
