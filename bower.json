@@ -1,12 +1,9 @@
 {
-  "name": "node2",
-  "description": "javascript week one code review",
-  "main": "index.js",
-  "authors": [
-    "schuyler klaassen"
-  ],
+  "name": "js-week-1-node_review",
+  "description": "### By _** Schuyler Klaassen **_",
+  "main": "gulpfile.js",
   "license": "ISC",
-  "homepage": "https://github.com/schuylermk/JS-Week-1-node_review_2",
+  "homepage": "https://github.com/schuylermk/JS-Week-1-node_Review",
   "moduleType": [],
   "ignore": [
     "**/.*",

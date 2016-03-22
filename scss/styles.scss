@@ -3,8 +3,8 @@ form {
   margin:auto;
 }
 label {
-  width:25%;
-}  
+  width:5%;
+}
 label, input {
   display: inline-block;
 }
@@ -13,4 +13,8 @@ input {
 }
 input[type=submit] {
   width:100%;
+}
+
+button {
+  width: 175px;
 }
